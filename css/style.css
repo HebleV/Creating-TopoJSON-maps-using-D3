@@ -1,0 +1,28 @@
+
+*{
+	font-family: Arial;
+}
+
+.country {
+	fill:#ECF0F1;
+
+}
+svg {
+	background-color: #fff;
+	stroke: #333;
+	stroke-width : 0.5;
+}
+p{
+	font-size: 12px;
+}
+.selected {
+	fill: #2ECC71;
+}
+
+.countries {
+	font-size: 6px;
+	color: dodgerblue;
+	}
+.circle {
+	fill:dodgerblue;
+}	
